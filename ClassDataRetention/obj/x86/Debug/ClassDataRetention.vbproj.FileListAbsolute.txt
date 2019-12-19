@@ -1,0 +1,9 @@
+C:\Users\yagi_yo\Documents\GitHub\ClassDataRetention\ClassDataRetention\bin\Debug\ClassDataRetention.exe
+C:\Users\yagi_yo\Documents\GitHub\ClassDataRetention\ClassDataRetention\bin\Debug\ClassDataRetention.pdb
+C:\Users\yagi_yo\Documents\GitHub\ClassDataRetention\ClassDataRetention\bin\Debug\ClassDataRetention.xml
+C:\Users\yagi_yo\Documents\GitHub\ClassDataRetention\ClassDataRetention\obj\x86\Debug\ClassDataRetention.Form1.resources
+C:\Users\yagi_yo\Documents\GitHub\ClassDataRetention\ClassDataRetention\obj\x86\Debug\ClassDataRetention.Resources.resources
+C:\Users\yagi_yo\Documents\GitHub\ClassDataRetention\ClassDataRetention\obj\x86\Debug\ClassDataRetention.vbproj.GenerateResource.Cache
+C:\Users\yagi_yo\Documents\GitHub\ClassDataRetention\ClassDataRetention\obj\x86\Debug\ClassDataRetention.exe
+C:\Users\yagi_yo\Documents\GitHub\ClassDataRetention\ClassDataRetention\obj\x86\Debug\ClassDataRetention.xml
+C:\Users\yagi_yo\Documents\GitHub\ClassDataRetention\ClassDataRetention\obj\x86\Debug\ClassDataRetention.pdb

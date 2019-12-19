@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SampleClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberData>123</NumberData>
+  <Message1>テストです。</Message1>
+  <Message2>
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+  </Message2>
+  <OrgCls>
+    <SampleClass1>
+      <NumberDa>0</NumberDa>
+      <Message1>aaaaaaa</Message1>
+    </SampleClass1>
+    <SampleClass1>
+      <NumberDa>0</NumberDa>
+    </SampleClass1>
+    <SampleClass1 xsi:nil="true" />
+    <SampleClass1 xsi:nil="true" />
+  </OrgCls>
+</SampleClass>
